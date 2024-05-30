@@ -1,0 +1,46 @@
+h2.title{
+    color: #3E1C00;
+}
+
+a.btn.btn-danger.btn-round{
+    background: #653106;
+    border: #653106;
+}
+
+a.btn.btn-danger.btn-round:hover{
+    background-color: #B77946;
+}
+
+i.nc-icon{
+    color: #653106;
+}
+
+h4.info-title{
+    color: #3E1C00;
+}
+
+h5.description{
+    color: #3E1C00;
+}
+
+p.description{
+    color: #3E1C00;
+    
+}
+
+a.btn.btn-link.btn-danger{
+    color: #653106;
+}
+
+a.btn.btn-link.btn-danger:hover{
+    background-color: #B77946;
+}
+
+.btn.btn-danger.btn-lg.btn-fill{
+    background-color: #653106;
+    border: #653106;
+}
+
+.card-avatar {
+    
+}
