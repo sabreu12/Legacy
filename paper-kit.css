@@ -1113,8 +1113,8 @@ fieldset[disabled] .btn.active {
 }
 
 .btn-primary {
-  background-color: #51cbce;
-  border-color: #51cbce;
+  background-color: #0b1011;
+  border-color: #0b1011;
   color: #FFFFFF;
   opacity: 1;
   filter: alpha(opacity=100);
@@ -1132,9 +1132,9 @@ fieldset[disabled] .btn.active {
 .btn-primary:not(:disabled):not(.disabled).active,
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .show>.btn-primary.dropdown-toggle {
-  background-color: #34b5b8;
+  background-color: #313434;
   color: #FFFFFF;
-  border-color: #34b5b8;
+  border-color: #313434;
   box-shadow: none;
 }
 
@@ -1433,8 +1433,8 @@ fieldset[disabled] .btn-warning.active {
 }
 
 .btn-danger {
-  background-color: #f5593d;
-  border-color: #f5593d;
+  background-color: #0b1011;
+  border-color: #0b1011;
   color: #FFFFFF;
   opacity: 1;
   filter: alpha(opacity=100);
@@ -1452,9 +1452,9 @@ fieldset[disabled] .btn-warning.active {
 .btn-danger:not(:disabled):not(.disabled).active,
 .btn-danger:not(:disabled):not(.disabled).active:focus,
 .show>.btn-danger.dropdown-toggle {
-  background-color: #f33816;
+  background-color: #797878;
   color: #FFFFFF;
-  border-color: #f33816;
+  border-color: #797878;
   box-shadow: none;
 }
 

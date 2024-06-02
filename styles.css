@@ -41,6 +41,6 @@ a.btn.btn-link.btn-danger:hover{
     border: #653106;
 }
 
-.card-avatar {
-    
+.btn .btn-primary {
+    background-color: blue;
 }
