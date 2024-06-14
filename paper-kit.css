@@ -7627,7 +7627,7 @@ License - nucleoapp.com/license/
     float: left;
   }
   .info.info-separator:after {
-    display: none;
+    display: inline-flexbox;
   }
   .pricing-5 .choose-plan {
     text-align: center;

@@ -44,3 +44,9 @@ a.btn.btn-link.btn-danger:hover{
 .btn .btn-primary {
     background-color: blue;
 }
+.row .info .description{
+    display: flex !important;
+    flex-wrap: wrap!important;
+    margin-right: 2!important;
+    margin-left: 2 !important;
+}
